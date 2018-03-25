@@ -1,0 +1,2 @@
+require("PHZPlayFunc")
+PHZPlayFunc:initData()
